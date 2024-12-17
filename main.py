@@ -32,4 +32,4 @@ while True:
     except requests.exceptions.RequestException as e:
         print(f"请求发生错误：{e}")
     
-    time.sleep(30)
+    time.sleep(60)
