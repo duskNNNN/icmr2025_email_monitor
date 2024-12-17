@@ -21,3 +21,6 @@ ICASSP2025 论文状态监控小脚本
 5. 下载本项目，修改main.py，把第8行改成自己的论文id，把第12行修改成自己的cookie，最后一行的轮询时间可以改成60，也就是60s，看你自己
 
 6. 运行`python main.py`
+
+# 运行效果
+<img width="561" alt="image" src="https://github.com/user-attachments/assets/8ba60b9d-1413-4951-acf9-9780bc06fe08" />
