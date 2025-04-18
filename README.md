@@ -3,7 +3,7 @@ ICMR20252025 论文状态监控小脚本 \
 参考网址：https://github.com/liuup/icassp_monitor \
 2 -> 论文接收  \
 3 -> 论文拒绝  \
-其他状态码 -> 还在审  \
+其他状态码 -> 还在审  
 
 所有状态码定义在 https://cmt3.research.microsoft.com/api/odata/ICMR2025/SubmissionStatuses
 
